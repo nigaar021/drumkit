@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: rgb(201, 189, 189);
+}
+h1{
+    font-size: 100px;
+    color: rgb(23, 2, 52);
+    text-shadow: 1px 0px white;
+}
+.drum{
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    border: 9px solid rgb(13, 50, 143);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 2;
+    font-weight: 900;
+    color: rgb(219, 210, 210);
+    text-shadow: 2px 0px white;
+}
+.w{
+    background-image: url("images/d1.jpg");
+}
+.a{
+    background-image: url("images/d2.jpg");
+}
+.s{
+    background-image: url("images/d3.jpg");
+}
+.d{
+    background-image: url("images/d4.jpg");
+}
+.j{
+    background-image: url("images/d5.jpg");
+}
+.k{
+    background-image: url("images/d6.jpg");
+}
+.l{
+    background-image: url("images/d7.jpg");
+}
+.pressed{
+    box-shadow: 1px 3px 4px 0 gainsboro;
+    opacity: 0.4;
+}
